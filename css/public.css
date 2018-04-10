@@ -17,6 +17,9 @@ img{
 body{
     background-color: #F5F5F5;
 }
+a{
+    color:#fff;
+}
 @font-face {
     font-family: 'iconfont';  /* project id 621926 */
     src: url('https://at.alicdn.com/t/font_621926_loej5142qkw3ik9.eot');

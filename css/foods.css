@@ -80,6 +80,9 @@ header{
     background: #fff;
 
 }
+.goods_list_right a{
+    color: black;
+}
 .goods_right_item{
     background: #fff;
     padding:0 0.27rem;
