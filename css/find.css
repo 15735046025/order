@@ -95,6 +95,11 @@ header span{
 .time_title p{
     font-size: 0.32rem;
     color:#363636;
+
+}
+.time_title .clock{
+    color:#C47876;
+    font-family: 'iconfont';
 }
 .time_title_foot{
     width: 100%;

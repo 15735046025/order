@@ -25,6 +25,7 @@ main{
 }
 .banner_top_right{
     font-size: 0.4rem;
+    font-family: 'iconfont';
 }
 .banner_foot{
     width: 100%;
@@ -56,14 +57,18 @@ main{
     height: 1.63rem;
     background: #DDDDDD;
     overflow: hidden;
+    margin:0 auto;
 }
 .money{
-    width: 2.4rem;
+    width: 2.39rem;
     height: 100%;
     margin:0.01rem 0 0.01rem;
     background: #fff;
     overflow: hidden;
     float: left;
+}
+.money2{
+    margin-left: 0.01rem;
 }
 .money_item{
     width: 0.61rem;
@@ -109,4 +114,16 @@ main{
     font-size: 0.3rem;
     color:#363636;
     float: left;
+}
+.color1{
+    color:#4CA5F0;
+}
+.color2{
+    color:#FD7B54;
+}
+.color3{
+    color:#94D94C;
+}
+.color4{
+    color:#4FA6F0;
 }
