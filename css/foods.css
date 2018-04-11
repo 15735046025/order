@@ -39,6 +39,7 @@ header{
     width: 100%;
     height: 7.63rem;
     overflow: hidden;
+    position: relative;
 }
 .goods_list_left{
     width: 2.4rem;
@@ -78,7 +79,9 @@ header{
     height: 100%;
     float: left;
     background: #fff;
-
+    position: absolute;
+    top:0;
+    left:2.4rem;
 }
 .goods_list_right a{
     color: black;
